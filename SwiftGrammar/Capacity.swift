@@ -15,3 +15,10 @@ for index in 0...100000{
 }
 
 print(array)
+
+
+for index in 0..<array.count{
+
+	
+
+}
